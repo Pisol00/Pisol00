@@ -6,9 +6,17 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 
 ## 🔥 Streak Stats 
 
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00"/>
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00" width="500" height="500"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00" width="500" height="500"/>
+
+
 
 ## Programming Skills
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
