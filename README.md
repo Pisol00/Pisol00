@@ -8,6 +8,7 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 
 <p align="center">
   <img width="58%" src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00"/>
 </p>
 
