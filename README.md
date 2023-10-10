@@ -30,4 +30,4 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 </p>
 
 ## Status
-19/9/2023 - I'm learing to write a react.
+????
