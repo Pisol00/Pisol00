@@ -10,7 +10,7 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
   <img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=phatsanphonna&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=phatsanphonna&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pisol00&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=phatsanphonna&layout=compact)
 </p>
 
 ## 👨🏻‍💻 - Programming Skills
