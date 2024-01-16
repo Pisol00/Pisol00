@@ -12,7 +12,7 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 </p>
 
 ## 👨🏻‍💻 - Programming Skills & Technology Stack
-- Languages : HTML & CSS & Javascript
+- Languages : HTML & CSS, Javascript
 ## 📚 - My Projects 
 
 - <a href="https://github.com/misterfocusth/HongFah-Online-IT-KMITL">HongFah Online - Faculty of IT's Student Infotmation System</a> Received outstanding project awards of 06016408 Object-Oriented Programming (Academic Year 2022)
