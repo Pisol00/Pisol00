@@ -9,9 +9,10 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00"/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisol00)](https://github.com/pisol00)
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pisol00&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=pisol00&layout=compact)
 
 ## 👨🏻‍💻 - Programming Skills
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> C 
