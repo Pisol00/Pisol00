@@ -15,6 +15,7 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 - Languages : HTML & CSS, Javascript
 ## 📚 - My Projects 
 
+- <a href="https://github.com/phatsanphonna/sikao-restaurant">GinKao Restaurant</a>
 - <a href="https://github.com/misterfocusth/HongFah-Online-IT-KMITL">HongFah Online - Faculty of IT's Student Infotmation System</a> Received outstanding project awards of 06016408 Object-Oriented Programming (Academic Year 2022)
 - <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL">Kin Arai Dee - (Nearby KMITL)</a>
 
