@@ -20,8 +20,10 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
   - [HongFah Online - Faculty of IT's Student Information System](https://github.com/misterfocusth/HongFah-Online-IT-KMITL)  
     *Received Outstanding Project Award for 06016408 Object-Oriented Programming (Academic Year 2022)*
 
-- **Year 2**  
+- **Year 2**
+  - [The-Magic-Stick](https://github.com/FewIT20/the-magic-stick-phypro66)  
   - [GinKao Restaurant](https://github.com/phatsanphonna/sikao-restaurant)
+
 
 - **Year 3**  
   - **Job4All**
