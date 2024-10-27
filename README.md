@@ -11,8 +11,28 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pisol00&theme=algolia" alt="pisol00"/> -->
 </p>
 
-## 👨🏻‍💻 - Programming Skills & Technology Stack
-- Languages : HTML & CSS, Javascript
+## 👨🏻‍💻 Programming Skills & Technology Stack
+
+### 🌐 Frontend
+- **Languages & Frameworks**: HTML, CSS, JavaScript, React
+- **CSS Frameworks**: Bootstrap, Tailwind CSS
+
+### 🛠️ Backend
+- **Languages & Frameworks**: Python (Django), Node.js
+- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4J
+- **APIs**: REST
+
+### ⚙️ Tools & Technologies
+- **CI/CD & DevOps**: Docker, Jenkins
+- **Version Control**: Git, GitHub Desktop
+- **Web Servers**: Nginx
+
+### 💻 Other Languages (Foundation)
+- **Languages**: Java, C
+
+### 📱 Mobile Development
+- Currently practicing mobile app development
+
 ## 📚 - My Projects
 
 - **Year 1**  
