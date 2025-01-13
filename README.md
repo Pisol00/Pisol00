@@ -34,21 +34,13 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
 - Currently practicing mobile app development
 
 ## 📚 - My Projects
-
-- **Year 1**  
   - [Kin Arai Dee - (Nearby KMITL)](https://github.com/misterfocusth/Kin-Arai-Dee-KMITL)
   - [HongFah Online - Faculty of IT's Student Information System](https://github.com/misterfocusth/HongFah-Online-IT-KMITL)  
     *Received Outstanding Project Award for 06016408 Object-Oriented Programming (Academic Year 2022)*
-
-- **Year 2**
   - [The-Magic-Stick](https://github.com/FewIT20/the-magic-stick-phypro66)  
   - [GinKao Restaurant](https://github.com/phatsanphonna/sikao-restaurant)
-
-
-- **Year 3**  
   - **Job4All**
-
-  - **Collectopia** 
+  - **Shopdee** 
 
 
 
