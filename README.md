@@ -10,7 +10,7 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
   <img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
 </p>
 
-## 👨🏻‍💻 Programming Skills & Technology Stack
+## 👨🏻‍💻 - Programming Skills & Technology Stack
 
 ### 🌐 Frontend
 - **Languages & Frameworks**: HTML, CSS, JavaScript, React
