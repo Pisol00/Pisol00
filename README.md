@@ -10,37 +10,6 @@ I'm studying Information Technology at King Mongkut’s Institute of Technology 
   <img src="https://github-readme-stats.vercel.app/api?username=pisol00&show_icons=true&locale=en&theme=algolia" alt="pisol00"/>
 </p>
 
-## 👨🏻‍💻 - Programming Skills & Technology Stack
-
-### 🌐 Frontend
-- **Languages & Frameworks**: HTML, CSS, JavaScript, React
-- **CSS Frameworks**: Bootstrap, Tailwind CSS
-
-### 🛠️ Backend
-- **Languages & Frameworks**: Python (Django), Node.js
-- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4J
-- **APIs**: REST
-
-### ⚙️ Tools & Technologies
-- **CI/CD & DevOps**: Docker, Jenkins
-- **Version Control**: Git, GitHub Desktop
-- **Web Servers**: Nginx
-
-### 💻 Other Languages (Foundation)
-- **Languages**: Java, C
-
-### 📱 Mobile Development
-- Currently practicing mobile app development
-
-## 📚 - My Projects
-  - [Kin Arai Dee - (Nearby KMITL)](https://github.com/misterfocusth/Kin-Arai-Dee-KMITL)
-  - [HongFah Online - Faculty of IT's Student Information System](https://github.com/misterfocusth/HongFah-Online-IT-KMITL)  
-    *Received Outstanding Project Award for 06016408 Object-Oriented Programming (Academic Year 2022)*
-  - [The-Magic-Stick](https://github.com/FewIT20/the-magic-stick-phypro66)  
-  - [GinKao Restaurant](https://github.com/phatsanphonna/sikao-restaurant)
-  - [Shopdee](https://github.com/Pisol00/)
-  - [Job4All](https://github.com/Pisol00/) 
-
 
 
 ## ✉️ - My Contract
