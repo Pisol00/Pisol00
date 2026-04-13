@@ -3,8 +3,7 @@ I'm a Fresh Software Engineering graduate from King Mongkut's Institute of Techn
 
 ## ✉️ - My Contract
 <p align="left">
-  <span><a href="https://www.facebook.com/ppisol/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  style="width:auto; height:30px;"/></span>
-  <span><a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  style="width:auto; height:30px;"/></span>
+  <span><a href="https://www.facebook.com/pisol.uat"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  style="width:auto; height:30px;"/></span>
 </p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ub5cba2csqa6csgszifkxdb4xm">
