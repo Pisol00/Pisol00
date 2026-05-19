@@ -26,8 +26,8 @@ Full-stack collaboration platform featuring real-time messaging, Kanban board, t
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pisol00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pisol00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pisol00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pisol00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
