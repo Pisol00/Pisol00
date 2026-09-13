@@ -14,10 +14,6 @@ I'm Pisol, a software engineer based in Thailand. I enjoy understanding how syst
 **Cloud & DevOps** - Railway, Vercel
 
 **Tools & Others** - Git, GitHub, Figma, Postman, Swagger, Docker
-
-## Tech Stack
-
-
 <!--
 ## GitHub Stats
 
