@@ -1,34 +1,28 @@
 ## About Me
 
-Software Engineering graduate from KMITL with hands-on experience in Full Stack web development. Passionate about building modern web applications and turning ideas into reliable digital products.
-
-Experienced in developing full-stack applications with React, Next.js, NestJS, Node.js, TypeScript, and PostgreSQL. Currently exploring backend architecture, scalable systems, and modern web technologies.
+I'm Pisol, a software engineer based in Thailand. I enjoy understanding how systems work end-to-end, then building them myself rather than working on just one piece. Most of my time goes into full-stack projects, and I like picking up new tools when a problem calls for it.
 
 
 ## Tech Stack
 
-React • Next.js • TypeScript • Node.js • NestJS • PostgreSQL • MongoDB • Docker • Tailwind CSS
+**Frontend** - HTML & CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS
 
+**Backend** - Node.js, NestJS, Express.js, Elysia
 
-## Featured Projects
+**Database** - PostgreSQL, MongoDB, Supabase
 
-### Class Schedule Management System
-Full-stack university timetable management system with real-time conflict detection, role-based access control, semester snapshot system, and Excel/CSV/PDF import-export.
+**Cloud & DevOps** - Railway, Vercel
 
-**Tech Stack:** Next.js, NestJS, PostgreSQL, TypeORM, TypeScript, Tailwind CSS
+**Tools & Others** - Git, GitHub, Figma, Postman, Swagger, Docker
 
-### Team Collaboration Platform
-Full-stack collaboration platform featuring real-time messaging, Kanban board, team task management, and Google OAuth 2.0 authentication.
-
-**Tech Stack:** Next.js, NestJS, PostgreSQL, Socket.io, TypeScript
-
-
+<!--
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pisol00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pisol00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pisol00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisol00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 
 ## Currently Listening
